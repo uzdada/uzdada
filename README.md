@@ -25,7 +25,12 @@
 
 ## Technical Writing
 
-**[피드 조회 성능 최적화: 800ms → 30ms ](https://velog.io/@xe0/피드게시물-조회-성능-개선-800ms-30ms)**
+**[k8s 환경 내 gRPC 스키마 정합성 확보](https://velog.io/@xe0/k8s-환경-내-gRPC-스키마-정합성-확보를-위한-Drift-Detection)**
+- go와 client-go를 활용하여 k8s native 환경의 스키마 불일치를 감지하는 오픈소스 도구 개발
+- gRPC reflection으로 런타임 스키마를 추출하고 Buf BSR 원본과 대조하는 자동화 파이프라인 구축
+
+
+**[피드 조회 성능 최적화: 800ms → 30ms](https://velog.io/@xe0/피드게시물-조회-성능-개선-800ms-30ms)**
 - UNION  쿼리와 N+1 문제로 인한 성능 병목을 Caffeine 인메모리 캐시로 해결
 - 유저별 데이터와 공통 데이터를 분리하여 캐싱 전략 설계
 - DB 부하 98% 감소, 처리량 20배 개선 달성
