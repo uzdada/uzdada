@@ -3,6 +3,11 @@
 
 ## Technical Writing
 
+**[바이브 코딩 시대, 왜 다시 SQL인가?](https://velog.io/@xe0/바이브-코딩-시대-왜-다시-SQL인가)**
+- AI가 생성한 코드에서, JPA의 암시적 마법이 유발하는 I/O 예측 불가능성 및 메모리 오버헤드 분석
+- Exposed DSL 도입을 통해 DB 통신 비용을 코드 레벨에서 명시적으로 시각화하고, 컴파일 타임 타입 검증을 통한 결정론적 시스템 구축 방안 제시
+
+
 **[k8s 환경 내 gRPC 스키마 정합성 확보](https://velog.io/@xe0/k8s-환경-내-gRPC-스키마-정합성-확보를-위한-Drift-Detection)**
 - go와 client-go를 활용하여 k8s native 환경의 스키마 불일치를 감지하는 오픈소스 도구 개발
 - gRPC reflection으로 런타임 스키마를 추출하고 Buf BSR 원본과 대조하는 자동화 파이프라인 구축
