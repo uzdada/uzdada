@@ -11,6 +11,8 @@
 **Co-Founder & Developer** | _`2025`_
 
 초기 창업 멤버로서 스포츠 플랫폼 _'Match'_ 의 모바일 앱(iOS/Android) 개발 및 런칭을 리드하고, 확장성과 안정성을 고려한 백엔드 및 서버 인프라를 구축했습니다.
+
+<br>
 <br>
 
 ## Education
